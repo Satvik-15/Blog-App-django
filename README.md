@@ -15,6 +15,6 @@ View this project Here: http://satvik1515.pythonanywhere.com/
 # Features
 
 * User authentication and authorization for secure logins and access control to posting and commenting features.
-* Blog post creation and editing functionality with the ability to add images and format the content using rich text editing tools.
+* Blog post creation and editing functionality with the ability to add images and format the content using rich text editing tools like Bold, Italics, Underline, Link, Quote and Highlight 
 * Commenting system for users to interact with each other and engage in discussions around the blog posts.
 * Tagging and categorization of blog posts for easy searching and filtering by topic or theme.
