@@ -1,4 +1,4 @@
-# Blog Web App
+# SJ Blogging Web App
 
 The blog web app created using Django and Python allows users to log in to the website and create and publish their own blog posts. Other users can then read these posts and leave comments to engage in discussions about the topics. With the ability to comment on posts, users can share their opinions and insights with the community and have meaningful interactions.
 
